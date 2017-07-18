@@ -21,8 +21,7 @@ sudo  adduser grader
 4. Add users to sudoers list
 create in /etc/sudoers.d two files (student and grader)
 paste with sudo nano grader the following content:
-
-User rules for ubuntu
+\#User rules for ubuntu
 grader ALL=(ALL) NOPASSWD:ALL
 5. create SSH ley with Amazon service (or alternatively ssh-keygen)
 6. Change SSH port to 2200
