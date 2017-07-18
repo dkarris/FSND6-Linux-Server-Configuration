@@ -55,5 +55,4 @@ Resources used:
 Udacity discussions and class notes
 https://www.a2hosting.com/kb/getting-started-guide/accessing-your-account/disabling-ssh-logins-for-root
 https://www.digitalocean.com/community/tutorials/how-to-use-roles-and-manage-grant-permissions-in-postgresql-on-a-vps--2
-
 https://www.jakowicz.com/flask-apache-wsgi/
